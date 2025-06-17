@@ -6,7 +6,7 @@ A Dify App Service-API Client, using for build a webapp by request Service-API
 
 First, install `dify-client` python sdk package:
 
-```
+```sh
 pip install dify-client
 ```
 
@@ -142,8 +142,6 @@ with open(file_path, "rb") as file:
     print(f'upload_file_id: {result.get("id")}')
 ```
   
-
-
 - Others
 
 ```python
