@@ -2,6 +2,8 @@
 
 Run Dify with Docker Compose. Configuration templates live in `.env.example` and `envs/`; local overrides belong in `.env`.
 
+For a personal macOS installation using a ChatGPT plan without an OpenAI Platform API key, see the optional [local ChatGPT bridge](chatgpt-bridge/README.md).
+
 ## How to Deploy Dify with `docker-compose.yaml`
 
 1. **Prerequisites**: Ensure Docker and Docker Compose v2.24.0 or later are installed on your system.
